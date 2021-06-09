@@ -62,6 +62,10 @@ body {
     background-color: #fafafa;
 }
 
+.customMenu {
+    background-color: #404040;
+}
+
 .container {
     width: 100%;
     padding-right: 15px;
